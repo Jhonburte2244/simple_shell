@@ -1,3 +1,3 @@
-[master ee6131f] simple Shell
- 2 files changed, 90 insertions(+), 5 deletions(-)
- create mode 100644 errors.c
+[master 84ff022]  exit function
+ 2 files changed, 79 insertions(+), 3 deletions(-)
+ create mode 100644 exits.c
