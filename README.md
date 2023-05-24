@@ -1,4 +1,2 @@
-[master b8271d6] ge into env
- 3 files changed, 101 insertions(+), 3 deletions(-)
- create mode 100644 .vi.swp
- create mode 100644 getenv.c
+[master a1cc31c] ge into env
+ 1 file changed, 4 insertions(+), 3 deletions(-)
