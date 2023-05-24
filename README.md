@@ -1,3 +1,3 @@
-[master a8d0f95]  history.c
- 2 files changed, 146 insertions(+), 2 deletions(-)
- create mode 100644 history.c
+[master 99e4203]  displays Listrs
+ 2 files changed, 128 insertions(+), 2 deletions(-)
+ create mode 100644 lists1.c
